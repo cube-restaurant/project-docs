@@ -1,0 +1,16 @@
+{
+  "name": "project-docs",
+  "version": "1.0.0",
+  "description": "Documentation for the Cube Restaurant Project",
+  "main": "index.js",
+  "repository": "git@github.com:cube-restaurant/project-docs.git",
+  "author": "<harshppatel2880@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "vuepress dev --open"
+  },
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
