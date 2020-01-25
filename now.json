@@ -3,10 +3,10 @@
   "version": 2,
   "name": "cube-restaurant-docs-test",
   "builds": [
-    { "src": ".vuepress/dist/**", "use": "@now/static" }
+    { "src": "./.vuepress/dist/**", "use": "@now/static" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": ".vuepress/dist/$1" }
+    { "src": "/(.*)", "dest": "./.vuepress/dist/$1" }
   ],
   "alias": ["cube-restaurant-docs-test.now.sh"]
 }
