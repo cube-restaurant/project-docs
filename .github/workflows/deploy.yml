@@ -27,6 +27,6 @@ jobs:
       env:
         CI: true
     - name: ZEIT Now Deployment
-      uses: actions/zeit-now@master
-      env:
+      uses: amondnet/now-deployment@v1
+      with:
         zeit-token: ${{ secrets.ZEIT_TOKEN }}
