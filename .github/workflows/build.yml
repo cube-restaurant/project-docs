@@ -1,0 +1,27 @@
+name: Node CI
+
+on:
+  pull_request:
+    branches: 
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js 12.x
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - name: npm install, build
+      run: |
+        npm run build
+      env:
+        CI: true
+    - name: ZEIT Now Deployment
+      uses: amondnet/now-deployment@v1
+      with:
+        # zeit.co token
+        zeit-token: ${{ secrets.ZEIT_TOKEN }}
