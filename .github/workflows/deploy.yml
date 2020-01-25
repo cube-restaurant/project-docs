@@ -1,7 +1,7 @@
 name: Node CI
 
 on:
-  pull_request:
+  push:
     branches: 
       - master
 
@@ -27,7 +27,6 @@ jobs:
       env:
         CI: true
     - name: ZEIT Now Deployment
-      uses: amondnet/now-deployment@v1
-      with:
-        # zeit.co token
+      uses: actions/zeit-now@master
+      env:
         zeit-token: ${{ secrets.ZEIT_TOKEN }}
