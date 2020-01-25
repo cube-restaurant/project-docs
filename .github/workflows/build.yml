@@ -15,10 +15,15 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 12.x
-    - name: npm install, build
-      run: |
-        npm ci
-        npm run build
+    - name: Installing Packages
+      uses: CultureHQ/actions-yarn@master
+      with:
+        args: install
+        
+    - name: Building Package
+      uses: CultureHQ/actions-yarn@master
+      with:
+        args: build
       env:
         CI: true
     - name: ZEIT Now Deployment
