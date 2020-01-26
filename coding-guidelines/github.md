@@ -1,3 +1,6 @@
+---
+title: 'GitHub'
+---
 <br><br>
 
 # Coding Guidelines - GitHub

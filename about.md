@@ -1,3 +1,6 @@
+---
+title: 'About the Project'
+---
 <br><br>
 
 # Story of the project
@@ -8,15 +11,15 @@ While I was learning web development, I found hard to contribute to the project 
 
 The project will include several projects like Main website, Blog, Recipe App, E Commerce for the restaurant and Master Admin panel. I am also planning to create mobile app using react native. Project will include back end for API and front end code. Stay tune to the project to learn several aspects of web development from basic website to JavaScript frameworks and node API.
 
-### How to Contribute?
+## How to Contribute?
 It is open source project and everyone is welcome to contribute their knowledge. Before contributing to the project, checkout [Code of Conduct](/code-of-conduct.html), [How to Contribute](/how-to-contribute.html) and [Coding Guidelines](/coding-guidelines/).
 
-### Technology Stack
+## Technology Stack
 * Front End → Basic HTML, CSS (SCSS pre-processor), JavaScript (Different Frameworks)
 * Back End → Node.js (Express)
 * Database → MongoDB
 
-### A Few things to Note...
+## A Few things to Note...
 Whenever you make a pull request or Opening the issue, Be descriptive. Mention all your changes in pull requests and if it is possible, add images in issues. This will be very helpful to the community. If other person asks for some clarification, please be kind and patient and explain your issue again.
 * **Pull Request** : Make pull requests to appropriate repository and to the related parent branch. Please do not make pull request directly to the master branch only for some basic changes. Only production publish requests are allowed to master branch.
 * **Opening Issue** : Open issue to the repository if you find any bug in the repository. Community will contact you soon. If you find the solution for the issue or you feel that it was a mistake, please make a comment on that issues that it is fixed now. So that admin can close the issue.

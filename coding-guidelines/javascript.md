@@ -1,3 +1,6 @@
+---
+title: 'JavaScript'
+---
 <br><br>
 
 # Coding Guidelines - JavaScript
