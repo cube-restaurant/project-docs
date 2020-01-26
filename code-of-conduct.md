@@ -1,3 +1,6 @@
+---
+title: 'Code of Conduct'
+---
 <br><br>
 
 # Code of Conduct
@@ -11,7 +14,7 @@ Before posting any messages, issues, or any other type of communication, take ex
 
 <br>
 
-### Rules
+## Rules
 
 * Be mindful of your language. Any of the following behavior is unacceptable:
   * Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background

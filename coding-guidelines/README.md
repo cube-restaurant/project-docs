@@ -1,3 +1,6 @@
+---
+title: 'Coding Guidelines'
+---
 <br><br>
 
 # Coding Guidelines
