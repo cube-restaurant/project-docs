@@ -2,6 +2,9 @@ module.exports = {
   title: 'Cube Restaurant',
   description: 'A Scalable web project created for fun!',
   dest: 'public',
+  markdown: {
+    lineNumbers: true,
+  },
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
