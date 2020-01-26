@@ -4,7 +4,7 @@ heroImage: /assets/img/logo.jpg
 heroText: The Cube Restaurant
 tagline: A Scalable web project created for fun!
 actionText: Get Started →
-actionLink: ./test.html
+actionLink: ./get-started.html
 features:
 - title: Scalable Web App
   details: Developing a web applcation as a scalable architecture using latest JavaScript Techs.
