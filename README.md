@@ -14,3 +14,13 @@ features:
   details: The project is completely open source. We want to create project with the community ❤️!
 footer: MIT Licensed | Copyright © 2020-present Harsh Patel
 ---
+
+---
+
+<br>
+
+### Want to contribute to the Docs?
+
+This project docs is created using VuePress. If you find any problems on the docs or if you can improve the documentation for the project, create Pull Request to the `development` branch on the [project-docs](https://github.com/cube-restaurant/project-docs) repo.
+
+<br>
