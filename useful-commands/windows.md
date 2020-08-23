@@ -1,8 +1,3 @@
----
-title: 'Windows'
----
-<br><br>
-
 # Useful Commands - Windows Command Line
 
 This page lists basic CLI commands for Windows Operating system to make your development process faster on Windows.

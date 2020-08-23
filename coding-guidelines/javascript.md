@@ -1,8 +1,3 @@
----
-title: 'JavaScript'
----
-<br><br>
-
 # Coding Guidelines - JavaScript
 
 This project uses [eslint](https://eslint.org/) as a linter for JavaScript code. The project follows popular eslint guidelines named [Airbnb](https://github.com/airbnb/javascript). Learn more about Airbnb guidelines [here](https://github.com/airbnb/javascript).

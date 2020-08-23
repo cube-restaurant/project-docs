@@ -1,8 +1,3 @@
----
-title: 'yarn'
----
-<br><br>
-
 # Useful Commands - yarn
 
 This pages lists basic commands for **yarn**. This requires yarn installed on the local machine first!

@@ -8,10 +8,10 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "vuepress dev --open",
-    "build": "vuepress build"
+    "start": "docsify serve"
   },
-  "dependencies": {
-    "vuepress": "^1.2.0"
+  "dependencies": {},
+  "devDependencies": {
+    "docsify-cli": "^4.4.1"
   }
 }

@@ -1,0 +1,5 @@
+* [Coding Guidelines](/coding-guidelines/)
+* [HTML](/coding-guidelines/html.md)
+* [CSS/SCSS](/coding-guidelines/css.md)
+* [JavaScript](/coding-guidelines/javascript.md)
+* [GitHub](/coding-guidelines/github.md)

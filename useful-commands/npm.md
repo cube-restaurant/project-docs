@@ -1,8 +1,3 @@
----
-title: 'npm'
----
-<br><br>
-
 # Useful Commands - npm
 
 This pages lists basic commands for **npm**. This requires npm installed on the local machine first!

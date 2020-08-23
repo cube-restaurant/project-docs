@@ -1,23 +1,11 @@
----
-title: 'CSS/SCSS'
----
-<br><br>
-
 # Coding Guidelines - CSS/SCSS
 
 Project follows specific coding guidelines for writing SCSS / CSS code of the project. We are using [StyleLint](https://stylelint.io/). Webpack starter kit has `.stylelintrc` file for rules of StyleLint. This page also list those rules. They will not throw error in development command, but it will while making production version of the project. So just try to solve these problems before making commits and before making production version.
 
-<br>
+!> To get warning about these rules inside **VS-Code**, use [stylelint](https://marketplace.visualstudio.com/items?itemName=Daosro.stylelint) extension.
 
-::: tip Note
-
-To get warning about these rules inside **VS-Code**, use [stylelint](https://marketplace.visualstudio.com/items?itemName=Daosro.stylelint) extension.
-:::
-
-<br>
-
-
-```json
+### Rules:
+```js
 {
   "rules": {
     "at-rule-empty-line-before": [ "always", {
