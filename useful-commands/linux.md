@@ -1,8 +1,3 @@
----
-title: 'Linux'
----
-<br><br>
-
 # Useful Commands - Linux/Unix Command Line
 
 This page lists basic commands for Linux/UNIX operating system. This will may make your development process faster through CLI.
