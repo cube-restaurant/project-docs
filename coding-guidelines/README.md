@@ -4,7 +4,5 @@
 
 We are using different linters to keep code consistant across all the contributors. Here are the languages that we lint in each projects.
 
-* [HTML](/coding-guidelines/html.md)
-* [CSS/SCSS](/coding-guidelines/css.md)
-* [JavaScript](/coding-guidelines/javascript.md)
-* [GitHub](/coding-guidelines/github.md)
+- [JavaScript](/coding-guidelines/javascript.md)
+- [GitHub](/coding-guidelines/github.md)
