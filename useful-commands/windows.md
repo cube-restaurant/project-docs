@@ -15,7 +15,7 @@ cd <new_path>
 # Create New directory / folder
 mkdir <directory_name>
 
-# Delete Fil 
+# Delete File
 del <filename.ext>
 
 # Remove Directory / Folder
