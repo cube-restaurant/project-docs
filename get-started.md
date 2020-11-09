@@ -10,8 +10,8 @@ What inspired me to start this project is that it is really hard to find sources
 
 The project will include several different sub-projects like different web apps, main website for restaurant, mobile apps and we might also create desktop app for admin. I will be streaming this project on Twitch and later I will be uploading those streams to YouTube so that you guys can find it for reference.
 
-- Twitch Channel - [](https://twitch.codingwith.fun)
-- YouTube Project Playlist - [](https://www.youtube.com/watch?v=6UkfaC3A7fE&list=PLcANfyOj0e1er18y7HqWDir9hynHFuti8)
+- Twitch Channel - [CodingWithFun](https://twitch.codingwith.fun)
+- YouTube Project Playlist - [Cube Restaurant | Twitch Streams](https://www.youtube.com/watch?v=6UkfaC3A7fE&list=PLcANfyOj0e1er18y7HqWDir9hynHFuti8)
 
 ## Road map
 
